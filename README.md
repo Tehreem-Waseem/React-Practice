@@ -1,6 +1,6 @@
 # 🎯 React Practice Playground
 
-A space to explore and experiment with mini React components as I learn and grow in front-end development. Each file or folder showcases a specific concept I'm practicing—from props and JSX to modular architecture and styling.
+A space to explore and experiment with mini React components as I learn and grow in front-end development. Each file or folder showcases a specific concept I'm practicing—from props and JSX to modular architecture and styling. 
 
 ---
 
